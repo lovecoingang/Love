@@ -2,7 +2,7 @@
   "name": "Love",
   "symbol": "LOVE",
   "description": "LOVE is a token on the Solana exchange that gives back to its holders! 50 Percent of Love's initial supply is reseverved for free community giveaways and projects voted for by the community!  @lovecoingang",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/lovecoingang/Love/main/lovetoken.png",
   "attributes": [
     {
       "trait_type": "Core Value",
@@ -21,7 +21,7 @@
   "properties": {
     "files": [
       {
-        "uri": "",
+        "uri": "https://raw.githubusercontent.com/lovecoingang/Love/main/lovetoken.png",
         "type": "image/png"
       }
     ],

@@ -1,0 +1,35 @@
+{
+  "name": "Love",
+  "symbol": "LOVE",
+  "description": "LOVE is a token on the Solana exchange that gives back to its holders! 50 Percent of Love's initial supply is reseverved for free community giveaways and projects voted for by the community!  @lovecoingang",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Core Value",
+      "value": "Giving Back"
+    },
+    {
+      "trait_type": "Supply Distribution",
+      "value": "50 percent for community giveaways"
+    },
+    {
+      "trait_type": "Governance",
+      "value": "Holder Voting Power"
+    }
+  ],
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8GbocfEBDbe25y6Z5Yr2ZQgGFHgygNo3ZydLsZwm9PEy",
+        "share": 100
+      }
+    ]
+  }
+}  

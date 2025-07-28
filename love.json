@@ -1,24 +1,18 @@
 {
-  "name": "Love",
-  "symbol": "LOVE",
-  "description": "LOVE is a Solana token that gives to its community! 65% of minted LOVE is reserved for community giveaways and actions voted for by the community!  Follow @lovecoingang for more",
-  "image": "https://raw.githubusercontent.com/lovecoingang/Love/main/lovetoken.png",
+  "name": "na",
+  "symbol": "na",
+  "description": "didn't end up taking off",
+  "image": "",
   "attributes": [
     {
       "trait_type": "Core Value",
-      "value": "Giving Back"
-    },
-    {
-      "trait_type": "Supply Distribution",
-      "value": "65% for community giveaways and voting, 20% launch, 15% creator"
+      "value": "not existing"
     }
   ],
   "seller_fee_basis_points": 0,
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/lovecoingang/Love/main/lovetoken.png",
-        "type": "image/png"
       }
     ],
     "creators": [

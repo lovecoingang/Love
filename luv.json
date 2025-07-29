@@ -1,0 +1,33 @@
+{
+  "name": "Love",
+  "symbol": "LOVE",
+  "description": "LOVE is a Solana token that reserved 75% of the initial mint for community giveaways and community voting! Only 1 million ever! Let's give some LOVE, Follow @lovecoingang",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Core Value",
+      "value": "Giving"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1 Million"
+    },
+    {
+      "trait_type": "Initial Supply",
+      "value": "75% giveaway reserve, 15% starting liquidity, 10% creator"
+    }
+  ],
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+      }
+    ],
+    "creators": [
+      {
+        "address": "AVVcv66T1WpRskHu5GXzWo5vE7ay4Ejx2BiVo7xoChd5",
+        "share": 100
+      }
+    ]
+  }
+}  

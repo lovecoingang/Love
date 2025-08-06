@@ -1,20 +1,16 @@
 {
-  "name": "Love",
+  "name": "Love Gang",
   "symbol": "LOVE",
-  "description": "LOVE is a Solana token that reserved 75% of the initial mint for community giveaways and community voting! Only 1 million ever! Let's give some LOVE, Follow @lovecoingang",
+  "description": "$LOVE is the official coin for the LOVE GANG NFT's, pay with LOVE! Meet our friends and join the Love Gang on our sites and socials.  @lovegangcoin",
   "image": "https://raw.githubusercontent.com/lovecoingang/Love/main/lovetoken.png",
   "attributes": [
-    {
-      "trait_type": "Core Value",
-      "value": "Giving"
-    },
     {
       "trait_type": "Total Supply",
       "value": "1 Million"
     },
     {
-      "trait_type": "Initial Supply",
-      "value": "75% giveaway reserve, 15% starting liquidity, 10% creator"
+      "trait_type": "Token Users",
+      "value": "The Love Gang"
     }
   ],
   "seller_fee_basis_points": 0,
